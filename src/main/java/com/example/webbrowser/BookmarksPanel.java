@@ -21,6 +21,8 @@ public class BookmarksPanel extends JFrame {
     private String[] bookmarks;
     private JList list;
     private JPanel panel;
+    boolean alreadyAdded;
+
 
 
     public BookmarksPanel(final CefBrowser browser, CefClient client, JButton addBookmarksButton) {
@@ -116,11 +118,21 @@ public class BookmarksPanel extends JFrame {
     public void saveUrlToJson(String url) {
         try (FileReader file = new FileReader("bookmarks.json")) {
             JSONArray history = new JSONArray(new JSONTokener(file));
-            history.put(url);
 
-            try (FileWriter writer = new FileWriter("bookmarks.json")) {
-                writer.write(history.toString());
-                writer.flush();
+            alreadyAdded = false;
+            for (int i = 0; i < history.length(); i++) {
+                if (history.getString(i).equals(url)) {
+                    alreadyAdded = true;
+                    break;
+                }
+            }
+
+            if (!alreadyAdded) {
+                history.put(url);
+                try (FileWriter writer = new FileWriter("bookmarks.json")) {
+                    writer.write(history.toString());
+                    writer.flush();
+                }
             }
         } catch (IOException e) {
             e.printStackTrace();

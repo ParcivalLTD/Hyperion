@@ -46,7 +46,7 @@ public class TabBar {
     public JComponent getContentPane() {
         JPanel panel = new JPanel(new BorderLayout());
         panel.add(tabbedPane, BorderLayout.CENTER);
-        panel.add(addTabButton, BorderLayout.EAST);
+        //panel.add(addTabButton, BorderLayout.EAST);
         return panel;
     }
 
