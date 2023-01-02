@@ -13,3 +13,5 @@
 💻 Please note that the JCEF library, which is necessary for Hyperion to run, is quite large (over 200 MB). For this reason, I have uploaded the JCEF bundle folder to the following link: https://brgrohrbach-my.sharepoint.com/:f:/g/personal/julian_gabriel_brgrohrbach_ac_at/Er24cPZmv3ZHoAcN-H7mVvYBzbT7bgdeGBvPk04C1JY6Ew?e=QtJJ1Y.
 
 ### 🙏 If you would like to try out Hyperion, you can download the setup in the releases section of this repository. Thank you for visiting and I hope you enjoy using Hyperion! 🙏
+
+To execute the Browser download the .jar file and the dependencies. Extract the dependencies into the same directory as the .jar file and open the .jar file. Now its downloading the libraries, so: be patient. When it finished downloading, the browser will open.
