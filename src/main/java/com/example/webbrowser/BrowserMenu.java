@@ -1,17 +1,14 @@
 package com.example.webbrowser;
 
+import com.formdev.flatlaf.ui.FlatDropShadowBorder;
+import org.cef.CefClient;
+import org.cef.browser.CefBrowser;
+
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
-import com.formdev.flatlaf.ui.FlatDropShadowBorder;
-import org.cef.CefClient;
-import org.cef.browser.CefBrowser;
-
-import java.awt.event.FocusEvent;
-import java.awt.event.FocusListener;
 
 public class BrowserMenu extends JPopupMenu {
     private static final long serialVersionUID = 1L;
@@ -22,16 +19,6 @@ public class BrowserMenu extends JPopupMenu {
     private SettingsPanel settingsPanel;
     private HistoryPanel historyPanel;
     private BookmarksPanel bookmarksPanel;
-    public SettingsPanel getSettingsPanel() {
-        return settingsPanel;
-    }
-    public HistoryPanel getHistoryPanel() {
-        return historyPanel;
-    }
-
-    public BookmarksPanel getBookmarksPanel() {
-        return bookmarksPanel;
-    }
 
     public BrowserMenu(CefBrowser browser, CefClient client_, JButton bookmarksButton) {
         settings = new JMenuItem("Settings");
@@ -78,6 +65,18 @@ public class BrowserMenu extends JPopupMenu {
                 bookmarksPanel.setVisible(true);
             }
         });
+    }
+
+    public SettingsPanel getSettingsPanel() {
+        return settingsPanel;
+    }
+
+    public HistoryPanel getHistoryPanel() {
+        return historyPanel;
+    }
+
+    public BookmarksPanel getBookmarksPanel() {
+        return bookmarksPanel;
     }
 
     public JMenuItem getSettings() {

@@ -4,13 +4,13 @@ import com.formdev.flatlaf.FlatDarculaLaf;
 import com.formdev.flatlaf.FlatDarkLaf;
 import com.formdev.flatlaf.FlatIntelliJLaf;
 import com.formdev.flatlaf.FlatLightLaf;
-import com.formdev.flatlaf.icons.FlatAnimatedIcon;
 import com.formdev.flatlaf.themes.FlatMacDarkLaf;
 import com.formdev.flatlaf.themes.FlatMacLightLaf;
-import com.formdev.flatlaf.ui.FlatDropShadowBorder;
 import org.json.JSONObject;
 import org.json.JSONTokener;
 
+import javax.swing.*;
+import javax.swing.border.EmptyBorder;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -19,9 +19,6 @@ import java.awt.event.MouseEvent;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-
-import javax.swing.*;
-import javax.swing.border.EmptyBorder;
 
 public class SettingsPanel extends JFrame {
     private JTextField homepageField;
@@ -59,7 +56,7 @@ public class SettingsPanel extends JFrame {
         row2.setLayout(new FlowLayout(FlowLayout.LEFT));
 
         JLabel searchLabel = new JLabel("Search Engine: ");
-        searchComboBox = new JComboBox<>(new String[] { "Google", "Bing", "DuckDuckGo" });
+        searchComboBox = new JComboBox<>(new String[]{"Google", "Bing", "DuckDuckGo"});
         row2.add(searchLabel);
         row2.add(searchComboBox);
 
@@ -69,7 +66,7 @@ public class SettingsPanel extends JFrame {
         row3.setLayout(new FlowLayout(FlowLayout.LEFT));
 
         JLabel themeLabel = new JLabel("Theme: ");
-        themeComboBox = new JComboBox<>(new String[] { "Light Theme", "Dark Theme", "Light Theme (Mac)", "Dark Theme (Mac)", "Dracula Theme", "IntelliJ Theme"});
+        themeComboBox = new JComboBox<>(new String[]{"Light Theme", "Dark Theme", "Light Theme (Mac)", "Dark Theme (Mac)", "Dracula Theme", "IntelliJ Theme"});
         row3.add(themeLabel);
         row3.add(themeComboBox);
 
@@ -138,31 +135,31 @@ public class SettingsPanel extends JFrame {
                     } catch (UnsupportedLookAndFeelException ex) {
                         throw new RuntimeException(ex);
                     }
-                } else if(theme.equals("Light Theme (Mac)")) {
+                } else if (theme.equals("Light Theme (Mac)")) {
                     try {
                         UIManager.setLookAndFeel(new FlatMacLightLaf());
                     } catch (UnsupportedLookAndFeelException ex) {
                         throw new RuntimeException(ex);
                     }
-                } else if(theme.equals("Light Theme")) {
+                } else if (theme.equals("Light Theme")) {
                     try {
                         UIManager.setLookAndFeel(new FlatLightLaf());
                     } catch (UnsupportedLookAndFeelException ex) {
                         throw new RuntimeException(ex);
                     }
-                } else if(theme.equals("Dark Theme")) {
+                } else if (theme.equals("Dark Theme")) {
                     try {
                         UIManager.setLookAndFeel(new FlatDarkLaf());
                     } catch (UnsupportedLookAndFeelException ex) {
                         throw new RuntimeException(ex);
                     }
-                } else if(theme.equals("Dracula Theme")) {
+                } else if (theme.equals("Dracula Theme")) {
                     try {
                         UIManager.setLookAndFeel(new FlatDarculaLaf());
                     } catch (UnsupportedLookAndFeelException ex) {
                         throw new RuntimeException(ex);
                     }
-                } else if(theme.equals("IntelliJ Theme")) {
+                } else if (theme.equals("IntelliJ Theme")) {
                     try {
                         UIManager.setLookAndFeel(new FlatIntelliJLaf());
                     } catch (UnsupportedLookAndFeelException ex) {

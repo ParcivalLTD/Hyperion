@@ -3,6 +3,7 @@ package com.example.webbrowser;
 import me.friwi.jcefmaven.CefInitializationException;
 import me.friwi.jcefmaven.UnsupportedPlatformException;
 
+import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -10,21 +11,11 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import javax.swing.JButton;
-import javax.swing.JComponent;
-import javax.swing.JPanel;
-import javax.swing.JTabbedPane;
-
 public class TabBar {
     private JTabbedPane tabbedPane;
     private JButton addTabButton;
     private List<Container> browserTabs;
     private String startPage;
-
-    public BrowserTab getBrowserTab() {
-        return browserTab;
-    }
-
     private BrowserTab browserTab;
 
     public TabBar(final String startPage) throws UnsupportedPlatformException, CefInitializationException, IOException, InterruptedException, FontFormatException {
@@ -46,6 +37,10 @@ public class TabBar {
                 }
             }
         });
+    }
+
+    public BrowserTab getBrowserTab() {
+        return browserTab;
     }
 
     public JComponent getContentPane() {

@@ -6,7 +6,6 @@ import org.cef.browser.CefFrame;
 import org.cef.handler.CefLoadHandler;
 import org.cef.network.CefRequest;
 import org.json.JSONArray;
-import org.json.JSONObject;
 import org.json.JSONTokener;
 
 import javax.swing.*;
@@ -20,7 +19,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class HistoryPanel extends JFrame{
+public class HistoryPanel extends JFrame {
 
     private String[] history;
     private JList list;

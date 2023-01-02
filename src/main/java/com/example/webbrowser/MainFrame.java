@@ -14,27 +14,24 @@ import org.json.JSONTokener;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
-import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
-import java.util.Set;
 
-public class MainFrame extends JFrame{
+public class MainFrame extends JFrame {
+    String theme;
     private String startPage;
     private TabBar tabBar;
-    String theme;
+
     public MainFrame() throws UnsupportedPlatformException, CefInitializationException, IOException, InterruptedException, FontFormatException {
 
         getSavedTheme();
 
-        UIManager.put( "TextComponent.arc", 12);
-        UIManager.put( "Component.focusWidth", 2);
-        UIManager.put( "TabbedPane.showTabSeparators", true);
-        UIManager.put( "Component.arrowType", "chevron" );
+        UIManager.put("TextComponent.arc", 12);
+        UIManager.put("Component.focusWidth", 2);
+        UIManager.put("TabbedPane.showTabSeparators", true);
+        UIManager.put("Component.arrowType", "chevron");
 
         startPage = "https://google.com";
         tabBar = new TabBar(startPage);
@@ -75,31 +72,31 @@ public class MainFrame extends JFrame{
                 } catch (UnsupportedLookAndFeelException ex) {
                     throw new RuntimeException(ex);
                 }
-            } else if(theme.equals("Light Theme (Mac)")) {
+            } else if (theme.equals("Light Theme (Mac)")) {
                 try {
                     UIManager.setLookAndFeel(new FlatMacLightLaf());
                 } catch (UnsupportedLookAndFeelException ex) {
                     throw new RuntimeException(ex);
                 }
-            } else if(theme.equals("Light Theme")) {
+            } else if (theme.equals("Light Theme")) {
                 try {
                     UIManager.setLookAndFeel(new FlatLightLaf());
                 } catch (UnsupportedLookAndFeelException ex) {
                     throw new RuntimeException(ex);
                 }
-            } else if(theme.equals("Dark Theme")) {
+            } else if (theme.equals("Dark Theme")) {
                 try {
                     UIManager.setLookAndFeel(new FlatDarkLaf());
                 } catch (UnsupportedLookAndFeelException ex) {
                     throw new RuntimeException(ex);
                 }
-            } else if(theme.equals("Dracula Theme")) {
+            } else if (theme.equals("Dracula Theme")) {
                 try {
                     UIManager.setLookAndFeel(new FlatDarculaLaf());
                 } catch (UnsupportedLookAndFeelException ex) {
                     throw new RuntimeException(ex);
                 }
-            } else if(theme.equals("IntelliJ Theme")) {
+            } else if (theme.equals("IntelliJ Theme")) {
                 try {
                     UIManager.setLookAndFeel(new FlatIntelliJLaf());
                 } catch (UnsupportedLookAndFeelException ex) {

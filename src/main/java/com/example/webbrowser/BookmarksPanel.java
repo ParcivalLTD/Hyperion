@@ -2,9 +2,6 @@ package com.example.webbrowser;
 
 import org.cef.CefClient;
 import org.cef.browser.CefBrowser;
-import org.cef.browser.CefFrame;
-import org.cef.handler.CefLoadHandler;
-import org.cef.network.CefRequest;
 import org.json.JSONArray;
 import org.json.JSONTokener;
 
@@ -19,7 +16,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class BookmarksPanel extends JFrame{
+public class BookmarksPanel extends JFrame {
 
     private String[] bookmarks;
     private JList list;
