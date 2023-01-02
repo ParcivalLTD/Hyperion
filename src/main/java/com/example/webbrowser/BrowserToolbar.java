@@ -66,7 +66,7 @@ public class BrowserToolbar extends Toolbar {
         add(homeButton);
         add(Box.createHorizontalStrut(5));
         add(address_);
-        add(Box.createHorizontalStrut(100));
+        add(Box.createHorizontalStrut(260));
         add(menuButton);
         add(Box.createHorizontalStrut(7));
     }

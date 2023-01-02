@@ -134,11 +134,13 @@ public class HistoryPanel extends JFrame {
     public void saveUrlToJson(String url) {
         try (FileReader file = new FileReader("history.json")) {
             JSONArray history = new JSONArray(new JSONTokener(file));
-            history.put(url);
+            if (history.length() == 0 || !history.getString(history.length() - 1).equals(url)) {
+                history.put(url);
 
-            try (FileWriter writer = new FileWriter("history.json")) {
-                writer.write(history.toString());
-                writer.flush();
+                try (FileWriter writer = new FileWriter("history.json")) {
+                    writer.write(history.toString());
+                    writer.flush();
+                }
             }
         } catch (IOException e) {
             e.printStackTrace();
@@ -146,7 +148,6 @@ public class HistoryPanel extends JFrame {
             e.printStackTrace();
         }
     }
-
     public String[] loadHistoryFromJson() {
         String[] history = {};
 

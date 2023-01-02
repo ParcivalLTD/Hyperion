@@ -29,7 +29,6 @@ public class MainFrame extends JFrame {
         getSavedTheme();
 
         UIManager.put("TextComponent.arc", 12);
-        UIManager.put("Component.focusWidth", 2);
         UIManager.put("TabbedPane.showTabSeparators", true);
         UIManager.put("Component.arrowType", "chevron");
 
@@ -38,6 +37,7 @@ public class MainFrame extends JFrame {
 
         getContentPane().add(tabBar.getContentPane());
 
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setTitle("Hyperion");
         String filePath = "images/icon.png";
         ImageIcon icon = new ImageIcon(filePath);
