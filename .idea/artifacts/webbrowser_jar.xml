@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="webbrowser:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/webbrowser_jar</output-path>
+    <root id="archive" name="webbrowser.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="webbrowser" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.10/gson-2.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/me/friwi/jcefmaven/108.4.13/jcefmaven-108.4.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/me/friwi/jcef-api/jcef-c1f0745+cef-108.4.13+ga98cd4c+chromium-108.0.5359.125/jcef-api-jcef-c1f0745+cef-108.4.13+ga98cd4c+chromium-108.0.5359.125.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20220924/json-20220924.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/me/friwi/gluegen-rt/v2.4.0-rc-20210111/gluegen-rt-v2.4.0-rc-20210111.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/formdev/flatlaf/3.0/flatlaf-3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/me/friwi/jogl-all/v2.4.0-rc-20210111/jogl-all-v2.4.0-rc-20210111.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

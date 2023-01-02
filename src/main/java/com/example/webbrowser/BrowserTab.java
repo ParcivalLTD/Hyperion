@@ -1,22 +1,22 @@
 package com.example.webbrowser;
 
-import com.formdev.flatlaf.ui.FlatPopupMenuUI;
 import me.friwi.jcefmaven.CefInitializationException;
 import me.friwi.jcefmaven.UnsupportedPlatformException;
-import org.cef.CefApp;
 import org.cef.CefClient;
 import org.cef.browser.CefBrowser;
 import org.cef.browser.CefFrame;
 import org.cef.handler.CefDisplayHandlerAdapter;
 import org.cef.handler.CefFocusHandlerAdapter;
-import org.cef.handler.CefLoadHandlerAdapter;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.event.FocusAdapter;
+import java.awt.event.FocusEvent;
 import java.io.IOException;
 
-public class BrowserTab extends JFrame implements Tab{
+public class BrowserTab extends JFrame implements Tab {
     private Browser browser;
     private boolean useOsr;
     private boolean useTransparency;
@@ -30,16 +30,10 @@ public class BrowserTab extends JFrame implements Tab{
     private JButton refreshButton;
     private JButton bookmarkButton;
     private JButton menuButton;
-
+    private JButton homeButton;
     private String searchEnginePre = "www.google.com/search?q=";
-
-    public BrowserMenu getMenu() {
-        return menu;
-    }
-
     private BrowserMenu menu;
     private boolean browserFocus_ = true;
-
     public BrowserTab(String url) throws UnsupportedPlatformException, CefInitializationException, IOException, InterruptedException, FontFormatException {
         useOsr = false;
         useTransparency = false;
@@ -56,6 +50,12 @@ public class BrowserTab extends JFrame implements Tab{
         forwardButtonListeners();
         refreshButtonListeners();
         menuPopup();
+        bookmarkButtonListeners();
+        homeButtonListeners(url);
+    }
+
+    public BrowserMenu getMenu() {
+        return menu;
     }
 
     private void refreshButtonListeners() {
@@ -79,6 +79,41 @@ public class BrowserTab extends JFrame implements Tab{
         });
     }
 
+    private void homeButtonListeners(final String startPageurl) {
+        homeButton = toolbar.getHomeButton();
+
+        homeButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                browser.getBrowser_().loadURL(startPageurl);
+            }
+        });
+
+        homeButton.addFocusListener(new FocusAdapter() {
+            @Override
+            public void focusGained(FocusEvent e) {
+                if (!browserFocus_) return;
+                browserFocus_ = false;
+                KeyboardFocusManager.getCurrentKeyboardFocusManager().clearGlobalFocusOwner();
+                homeButton.requestFocus();
+            }
+        });
+    }
+
+    private void bookmarkButtonListeners() {
+        bookmarkButton = toolbar.getBookmarkButton();
+
+        bookmarkButton.addFocusListener(new FocusAdapter() {
+            @Override
+            public void focusGained(FocusEvent e) {
+                if (!browserFocus_) return;
+                browserFocus_ = false;
+                KeyboardFocusManager.getCurrentKeyboardFocusManager().clearGlobalFocusOwner();
+                bookmarkButton.requestFocus();
+            }
+        });
+    }
+
     private void menuPopup() {
         menuButton = toolbar.getMenuButton();
         menu = new BrowserMenu(browser.getBrowser_(), browser.getClient_(), toolbar.getBookmarkButton());
@@ -89,7 +124,7 @@ public class BrowserTab extends JFrame implements Tab{
                 menu.setVisible(!menu.isVisible());
 
                 if (menu.isVisible()) {
-                    menu.show(menuButton, -menu.getPreferredSize().width+menuButton.getWidth()+10, menuButton.getHeight()+10);
+                    menu.show(menuButton, -menu.getPreferredSize().width + menuButton.getWidth() + 10, menuButton.getHeight() + 10);
                 }
             }
         });
