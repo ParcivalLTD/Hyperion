@@ -20,7 +20,7 @@ public class BrowserMenu extends JPopupMenu {
     private HistoryPanel historyPanel;
     private BookmarksPanel bookmarksPanel;
 
-    public BrowserMenu(CefBrowser browser, CefClient client_, JButton bookmarksButton) {
+    public BrowserMenu(CefBrowser browser, CefClient client_, JButton bookmarksButton, String searchEnginePre) {
         settings = new JMenuItem("Settings");
         history = new JMenuItem("History");
         bookmarks = new JMenuItem("Bookmarks");
@@ -38,7 +38,7 @@ public class BrowserMenu extends JPopupMenu {
         add(Box.createHorizontalGlue());
         setVisible(false);
 
-        settingsPanel = new SettingsPanel();
+        settingsPanel = new SettingsPanel(searchEnginePre);
         historyPanel = new HistoryPanel(browser, client_);
         bookmarksPanel = new BookmarksPanel(browser, client_, bookmarksButton);
 
