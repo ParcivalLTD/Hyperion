@@ -9,25 +9,23 @@ import com.formdev.flatlaf.themes.FlatMacLightLaf;
 import org.json.JSONObject;
 import org.json.JSONTokener;
 
+import java.awt.event.*;
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import java.awt.event.MouseAdapter;
-import java.awt.event.MouseEvent;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
 public class SettingsPanel extends JFrame {
-    private JTextField homepageField;
+    public JComboBox<String> homepageComboBox;
     private JComboBox<String> searchComboBox;
     private JComboBox<String> themeComboBox;
+    private JTextField homepageField;
 
     private JPanel panel;
 
-    public SettingsPanel() {
+    public SettingsPanel(String SearchEnginePre) {
         setResizable(false);
         setTitle("Settings");
         setSize(720, 300);
@@ -46,9 +44,22 @@ public class SettingsPanel extends JFrame {
         row1.setLayout(new FlowLayout(FlowLayout.LEFT));
 
         JLabel homepageLabel = new JLabel("Homepage: ");
-        homepageField = new JTextField(20);
+        homepageComboBox = new JComboBox<>(new String[]{"Google", "Netvibes", "Protopage", "My Yahoo", "My MSN", "Start.me", "Custom Url"});
         row1.add(homepageLabel);
-        row1.add(homepageField);
+        row1.add(homepageComboBox);
+
+        homepageComboBox.addItemListener(new ItemListener() {
+            @Override
+            public void itemStateChanged(ItemEvent e) {
+                if (e.getStateChange() == ItemEvent.SELECTED && "Custom".equals(homepageComboBox.getSelectedItem())) {
+                    String customHomepage = JOptionPane.showInputDialog("Enter custom homepage URL: ");
+                    homepageField = new JTextField(20);
+                    homepageField.setText(customHomepage);
+                }
+            }
+        });
+
+
 
         formPanel.add(row1);
 
@@ -56,7 +67,8 @@ public class SettingsPanel extends JFrame {
         row2.setLayout(new FlowLayout(FlowLayout.LEFT));
 
         JLabel searchLabel = new JLabel("Search Engine: ");
-        searchComboBox = new JComboBox<>(new String[]{"Google", "Bing", "DuckDuckGo"});
+        searchComboBox = new JComboBox<>(new String[]{"Google", "Bing", "DuckDuckGo", "Yahoo", "Ask", "AOL", "Baidu", "Yandex", "Ecosia", "StartPage", "Gigablast"});
+        searchEngines(SearchEnginePre);
         row2.add(searchLabel);
         row2.add(searchComboBox);
 
@@ -111,6 +123,50 @@ public class SettingsPanel extends JFrame {
                 panel.requestFocusInWindow();
             }
         });
+    }
+
+    public void searchEngines(String SearchEnginePre) {
+        String searchEngine = (String) searchComboBox.getSelectedItem();
+
+        switch (searchEngine) {
+            case "Google":
+                SearchEnginePre = "https://google.com/search?q=";
+                break;
+            case "Bing":
+                SearchEnginePre = "https://www.bing.com/search?q=";
+                break;
+            case "DuckDuckGo":
+                SearchEnginePre = "https://duckduckgo.com/?q=";
+                break;
+            case "Yahoo":
+                SearchEnginePre = "https://search.yahoo.com/search?p=";
+                break;
+            case "Ask":
+                SearchEnginePre = "https://www.ask.com/web?q=";
+                break;
+            case "AOL":
+                SearchEnginePre = "https://search.aol.com/aol/search?q=";
+                break;
+            case "Baidu":
+                SearchEnginePre = "https://www.baidu.com/s?wd=";
+                break;
+            case "Yandex":
+                SearchEnginePre = "https://www.yandex.com/search/?text=";
+                break;
+            case "Ecosia":
+                SearchEnginePre = "https://www.ecosia.org/search?q=";
+                break;
+            case "StartPage":
+                SearchEnginePre = "https://www.startpage.com/do/search?q=";
+                break;
+            case "Gigablast":
+                SearchEnginePre = "https://www.gigablast.com/search?q=";
+                break;
+            default:
+                // set SearchEnginePre to a default value or throw an exception
+                break;
+        }
+
     }
 
     public void saveTheme(String theme) {

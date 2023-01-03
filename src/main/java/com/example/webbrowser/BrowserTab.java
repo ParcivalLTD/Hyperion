@@ -35,6 +35,8 @@ public class BrowserTab extends JFrame implements Tab {
     private BrowserMenu menu;
     private boolean browserFocus_ = true;
     public BrowserTab(String url) throws UnsupportedPlatformException, CefInitializationException, IOException, InterruptedException, FontFormatException {
+        url = homePageListener(url);
+
         useOsr = false;
         useTransparency = false;
 
@@ -49,9 +51,32 @@ public class BrowserTab extends JFrame implements Tab {
         backButtonListeners();
         forwardButtonListeners();
         refreshButtonListeners();
-        menuPopup();
+        menuPopup(url);
         bookmarkButtonListeners();
         homeButtonListeners(url);
+    }
+
+    public String homePageListener(final String url) {
+        final String[] url2 = new String[1];
+        url2[0] = "";
+
+        final JComboBox homepageComboBox = menu.getSettingsPanel().homepageComboBox;
+        if (homepageComboBox != null) {
+            homepageComboBox.addActionListener(new ActionListener() {
+                public void actionPerformed(ActionEvent e) {
+                    url2[0] = (String) homepageComboBox.getSelectedItem();
+                }
+            });
+        }
+
+
+        if (url2[0] != "") {
+            return url2[0];
+        } else if (url != null) {
+            return url;
+        } else {
+            return "";
+        }
     }
 
     public BrowserMenu getMenu() {
@@ -114,9 +139,9 @@ public class BrowserTab extends JFrame implements Tab {
         });
     }
 
-    private void menuPopup() {
+    private void menuPopup(String startPage) {
         menuButton = toolbar.getMenuButton();
-        menu = new BrowserMenu(browser.getBrowser_(), browser.getClient_(), toolbar.getBookmarkButton());
+        menu = new BrowserMenu(browser.getBrowser_(), browser.getClient_(), toolbar.getBookmarkButton(), searchEnginePre);
 
         menuButton.addActionListener(new ActionListener() {
             @Override
