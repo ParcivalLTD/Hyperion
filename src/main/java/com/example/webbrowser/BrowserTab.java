@@ -35,7 +35,7 @@ public class BrowserTab extends JFrame implements Tab {
     private BrowserMenu menu;
     private boolean browserFocus_ = true;
     public BrowserTab(String url) throws UnsupportedPlatformException, CefInitializationException, IOException, InterruptedException, FontFormatException {
-        url = homePageListener(url);
+        //url = homePageListener(url);
 
         useOsr = false;
         useTransparency = false;
@@ -54,9 +54,9 @@ public class BrowserTab extends JFrame implements Tab {
         menuPopup(url);
         bookmarkButtonListeners();
         homeButtonListeners(url);
-    }
 
-    public String homePageListener(final String url) {
+    }
+    /**public String homePageListener(final String url) {
         final String[] url2 = new String[1];
         url2[0] = "";
 
@@ -77,7 +77,7 @@ public class BrowserTab extends JFrame implements Tab {
         } else {
             return "";
         }
-    }
+    }**/
 
     public BrowserMenu getMenu() {
         return menu;
@@ -172,7 +172,7 @@ public class BrowserTab extends JFrame implements Tab {
         backButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                browser_.goBack();
+                    browser_.goBack();
             }
         });
 
@@ -193,7 +193,7 @@ public class BrowserTab extends JFrame implements Tab {
         forwardButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                browser_.goForward();
+                    browser_.goForward();
             }
         });
 
@@ -221,6 +221,18 @@ public class BrowserTab extends JFrame implements Tab {
                     url = searchEnginePre + url;
                 }
                 browser_.loadURL(url);
+
+                if (browser_.canGoBack()) {
+                    backButton.setEnabled(true);
+                } else {
+                    backButton.setEnabled(false);
+                }
+
+                if (browser_.canGoForward()) {
+                    forwardButton.setEnabled(true);
+                } else {
+                    forwardButton.setEnabled(false);
+                }
             }
         });
         client_.addDisplayHandler(new CefDisplayHandlerAdapter() {

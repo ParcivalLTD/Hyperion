@@ -18,6 +18,11 @@
             <version>108.4.13</version>
         </dependency>
         <dependency>
+            <groupId>javax.swing</groupId>
+            <artifactId>javax.swing-plaf</artifactId>
+            <version>1.2</version>
+        </dependency>
+        <dependency>
             <groupId>com.formdev</groupId>
             <artifactId>flatlaf</artifactId>
             <version>3.0</version>
@@ -32,6 +37,36 @@
             <groupId>org.json</groupId>
             <artifactId>json</artifactId>
             <version>20220924</version>
+        </dependency>
+        <dependency>
+            <groupId>me.friwi</groupId>
+            <artifactId>jcef-api</artifactId>
+            <version>jcef-544024e+cef-95.7.14+g9f72f35+chromium-95.0.4638.69</version>
+        </dependency>
+        <dependency>
+            <groupId>me.friwi</groupId>
+            <artifactId>jcef-api</artifactId>
+            <version>jcef-544024e+cef-95.7.14+g9f72f35+chromium-95.0.4638.69</version>
+        </dependency>
+        <dependency>
+            <groupId>me.friwi</groupId>
+            <artifactId>jcef-api</artifactId>
+            <version>jcef-544024e+cef-95.7.14+g9f72f35+chromium-95.0.4638.69</version>
+        </dependency>
+        <dependency>
+            <groupId>me.friwi</groupId>
+            <artifactId>jcef-api</artifactId>
+            <version>jcef-544024e+cef-95.7.14+g9f72f35+chromium-95.0.4638.69</version>
+        </dependency>
+        <dependency>
+            <groupId>me.friwi</groupId>
+            <artifactId>jcef-api</artifactId>
+            <version>jcef-544024e+cef-95.7.14+g9f72f35+chromium-95.0.4638.69</version>
+        </dependency>
+        <dependency>
+            <groupId>me.friwi</groupId>
+            <artifactId>jcef-api</artifactId>
+            <version>jcef-544024e+cef-95.7.14+g9f72f35+chromium-95.0.4638.69</version>
         </dependency>
     </dependencies>
     <build>
