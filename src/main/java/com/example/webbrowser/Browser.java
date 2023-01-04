@@ -8,9 +8,25 @@ import org.cef.CefApp;
 import org.cef.CefClient;
 import org.cef.browser.CefBrowser;
 import org.cef.browser.CefMessageRouter;
+import org.cef.callback.CefCookieVisitor;
+import org.cef.handler.CefCookieAccessFilter;
+import org.cef.network.CefCookie;
+import org.cef.network.CefCookieManager;
+import org.json.Cookie;
+import org.json.JSONArray;
+import org.json.JSONObject;
+import org.cef.CefApp;
+import org.cef.CefApp.CefAppState;
+import org.cef.CefClient;
 
+import javax.swing.*;
 import java.awt.*;
+import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
+import java.net.CookieManager;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Browser {
     private static final long serialVersionUID = -5570653778104813836L;
