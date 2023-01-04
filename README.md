@@ -7,7 +7,6 @@
 
 ## 🚀 To get started with Hyperion, you can...
 
-### 1. clone the repository using the following command:
 ### 1. Use the source code
 
 clone the repository using the following command:
