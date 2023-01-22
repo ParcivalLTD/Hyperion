@@ -7,7 +7,7 @@ import java.awt.*;
 import java.io.IOException;
 
 public class Main {
-    public static void main(String[] args) throws UnsupportedPlatformException, CefInitializationException, IOException, InterruptedException, FontFormatException {
+    public static void main(String[] args) throws Exception {
         MainFrame mainFrame = new MainFrame();
     }
 }

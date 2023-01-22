@@ -52,6 +52,7 @@ public class HistoryPanel extends JFrame {
         });
 
         JScrollPane scrollPane = new JScrollPane(list);
+        scrollPane.setPreferredSize(new Dimension(getWidth()-45, getHeight()-45));
         listPanel.add(scrollPane);
 
         client.addLoadHandler(new CefLoadHandler() {

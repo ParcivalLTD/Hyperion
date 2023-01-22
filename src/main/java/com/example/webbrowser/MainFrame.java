@@ -24,7 +24,7 @@ public class MainFrame extends JFrame {
     private String startPage;
     private TabBar tabBar;
 
-    public MainFrame() throws UnsupportedPlatformException, CefInitializationException, IOException, InterruptedException, FontFormatException {
+    public MainFrame() throws Exception {
 
         getSavedTheme();
 
@@ -33,9 +33,9 @@ public class MainFrame extends JFrame {
         UIManager.put("Component.arrowType", "chevron");
 
         startPage = "https://google.com";
-        tabBar = new TabBar(startPage);
+        tabBar = new TabBar(false, "https://google.com");
 
-        getContentPane().add(tabBar.getContentPane());
+        getContentPane().add(tabBar.getMainPanel());
 
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setTitle("Hyperion");
