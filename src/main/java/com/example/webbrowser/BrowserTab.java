@@ -2,6 +2,7 @@ package com.example.webbrowser;
 
 import me.friwi.jcefmaven.CefInitializationException;
 import me.friwi.jcefmaven.UnsupportedPlatformException;
+import org.cef.CefApp;
 import org.cef.CefClient;
 import org.cef.browser.CefBrowser;
 import org.cef.browser.CefFrame;
@@ -17,10 +18,18 @@ import java.awt.event.FocusEvent;
 import java.io.IOException;
 
 public class BrowserTab extends JFrame implements Tab {
+    public Browser getBrowser() {
+        return browser;
+    }
+
     private Browser browser;
     private boolean useOsr;
     private boolean useTransparency;
-    private JPanel contentPanel;
+
+    public BrowserToolbar getToolbar() {
+        return toolbar;
+    }
+
     private BrowserToolbar toolbar;
     private CefClient client_;
     private JTextField address_;
@@ -35,8 +44,6 @@ public class BrowserTab extends JFrame implements Tab {
     private BrowserMenu menu;
     private boolean browserFocus_ = true;
     public BrowserTab(String url) throws UnsupportedPlatformException, CefInitializationException, IOException, InterruptedException, FontFormatException {
-        //url = homePageListener(url);
-
         useOsr = false;
         useTransparency = false;
 
@@ -149,7 +156,7 @@ public class BrowserTab extends JFrame implements Tab {
                 menu.setVisible(!menu.isVisible());
 
                 if (menu.isVisible()) {
-                    menu.show(menuButton, -menu.getPreferredSize().width + menuButton.getWidth() + 10, menuButton.getHeight() + 10);
+                    menu.show(menuButton, -menu.getPreferredSize().width + menuButton.getWidth() + 7, menuButton.getHeight() + 9);
                 }
             }
         });

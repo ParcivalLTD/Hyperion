@@ -17,11 +17,7 @@
             <artifactId>jcefmaven</artifactId>
             <version>108.4.13</version>
         </dependency>
-        <dependency>
-            <groupId>javax.swing</groupId>
-            <artifactId>javax.swing-plaf</artifactId>
-            <version>1.2</version>
-        </dependency>
+
         <dependency>
             <groupId>com.formdev</groupId>
             <artifactId>flatlaf</artifactId>
@@ -39,9 +35,9 @@
             <version>20220924</version>
         </dependency>
         <dependency>
-            <groupId>me.friwi</groupId>
-            <artifactId>jcef-api</artifactId>
-            <version>jcef-544024e+cef-95.7.14+g9f72f35+chromium-95.0.4638.69</version>
+            <groupId>org.jsoup</groupId>
+            <artifactId>jsoup</artifactId>
+            <version>1.15.3</version>
         </dependency>
         <dependency>
             <groupId>me.friwi</groupId>
@@ -67,6 +63,22 @@
             <groupId>me.friwi</groupId>
             <artifactId>jcef-api</artifactId>
             <version>jcef-544024e+cef-95.7.14+g9f72f35+chromium-95.0.4638.69</version>
+        </dependency>
+        <dependency>
+            <groupId>me.friwi</groupId>
+            <artifactId>jcef-api</artifactId>
+            <version>jcef-544024e+cef-95.7.14+g9f72f35+chromium-95.0.4638.69</version>
+        </dependency>
+        <dependency>
+            <groupId>com.github.hazendaz.jsoup</groupId>
+            <artifactId>jsoup</artifactId>
+            <version>1.15.1</version>
+        </dependency>
+        <dependency>
+            <groupId>com.github.hazendaz.jsoup</groupId>
+            <artifactId>jsoup</artifactId>
+            <version>1.15.1</version>
+            <scope>import</scope>
         </dependency>
     </dependencies>
     <build>

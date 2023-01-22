@@ -16,6 +16,7 @@ import java.awt.*;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.ArrayList;
 
 public class SettingsPanel extends JFrame {
     public JComboBox<String> homepageComboBox;
@@ -93,9 +94,37 @@ public class SettingsPanel extends JFrame {
 
         themeComboBox.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
-                JOptionPane.showMessageDialog(SettingsPanel.this, "Restart the browser to apply the theme to all elements.");
+                Object[] options = {"Restart Now", "Restart Later"};
+                int choice = JOptionPane.showOptionDialog(SettingsPanel.this,
+                        "Restart the browser to apply the theme to all elements.",
+                        "Restart Required",
+                        JOptionPane.YES_NO_OPTION,
+                        JOptionPane.WARNING_MESSAGE,
+                        null,
+                        options,
+                        options[1]);
+                if (choice == JOptionPane.YES_OPTION) {
+                    try {
+                        String java = System.getProperty("java.home") + "/bin/java";
+                        String classpath = System.getProperty("java.class.path");
+                        String className = Main.class.getCanonicalName();
+
+                        ArrayList<String> command = new ArrayList<String>();
+                        command.add(java);
+                        command.add("-cp");
+                        command.add(classpath);
+                        command.add(className);
+
+                        ProcessBuilder builder = new ProcessBuilder(command);
+                        builder.start();
+                        System.exit(0);
+                    } catch (IOException ex) {
+                        ex.printStackTrace();
+                    }
+                }
             }
         });
+
 
         formPanel.add(row3);
 

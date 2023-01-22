@@ -1641,3 +1641,1119 @@ Sie sollten keinen Code eingeben oder einfügen, den Sie nicht verstehen.", sour
 [0104/154652.068:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
 [0104/154652.498:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
 [0104/154715.199:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/122448.443:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/122449.508:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/122648.011:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/122703.114:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/122706.109:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/122727.304:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/122728.741:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/122750.110:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/122756.351:WARNING:browser_info.cc(300)] Returning a speculative frame for 30064771078 [7,6]
+[0122/122756.479:WARNING:browser_info.cc(300)] Returning a speculative frame for 30064771078 [7,6]
+[0122/122756.479:WARNING:browser_info.cc(300)] Returning a speculative frame for 30064771078 [7,6]
+[0122/122756.479:WARNING:browser_info.cc(300)] Returning a speculative frame for 30064771078 [7,6]
+[0122/122756.479:WARNING:browser_info.cc(300)] Returning a speculative frame for 30064771078 [7,6]
+[0122/122757.751:WARNING:obfuscated_file_util.cc(1397)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0122/122801.267:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/122802.574:WARNING:browser_info.cc(300)] Returning a speculative frame for 30064771086 [7,14]
+[0122/122802.668:WARNING:browser_info.cc(300)] Returning a speculative frame for 30064771086 [7,14]
+[0122/122802.668:WARNING:browser_info.cc(300)] Returning a speculative frame for 30064771086 [7,14]
+[0122/122802.668:WARNING:browser_info.cc(300)] Returning a speculative frame for 30064771086 [7,14]
+[0122/122802.668:WARNING:browser_info.cc(300)] Returning a speculative frame for 30064771086 [7,14]
+[0122/122818.399:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/122819.295:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/122840.193:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/122852.392:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/122852.968:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/122909.428:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/122911.831:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/123000.096:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/123001.828:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/123159.872:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/123339.819:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/123340.292:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/123340.403:INFO:CONSOLE(123)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (123)
+[0122/123425.911:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/123426.397:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/123426.517:INFO:CONSOLE(0)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (0)
+[0122/123441.941:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/123442.912:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/123509.019:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/123509.464:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/123509.565:INFO:CONSOLE(123)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (123)
+[0122/123517.413:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/123517.888:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/123517.983:INFO:CONSOLE(123)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (123)
+[0122/123525.216:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/123525.707:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/123525.835:INFO:CONSOLE(123)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (123)
+[0122/123532.967:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/123533.506:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/123543.023:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/123543.496:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/123543.597:INFO:CONSOLE(123)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (123)
+[0122/123555.762:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/123556.208:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/123755.578:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/123835.479:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/123836.234:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/124035.257:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/125004.270:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/125208.946:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/125210.902:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/125310.536:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/125408.716:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/125453.613:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/125454.570:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/125615.820:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/125618.193:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/125815.623:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/130041.599:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/130043.313:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/130241.386:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/131530.153:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/131530.492:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/131532.551:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/131535.768:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/131541.031:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/131548.605:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/131548.621:ERROR:interface_endpoint_client.cc(694)] Message 1 rejected by interface blink.mojom.WidgetHost
+[0122/131558.955:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672965 [10,5]
+[0122/131559.069:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672965 [10,5]
+[0122/131559.069:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672965 [10,5]
+[0122/131559.069:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672965 [10,5]
+[0122/131559.069:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672965 [10,5]
+[0122/131601.053:WARNING:obfuscated_file_util.cc(1397)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0122/131632.341:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/131634.928:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/131635.614:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/131635.883:WARNING:browser_info.cc(300)] Returning a speculative frame for 51539607557 [12,5]
+[0122/131636.145:INFO:CONSOLE(1120)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.youtube.com') does not match the recipient window's origin ('https://www.google.com').", source: https://www.youtube.com/s/player/4248d311/www-widgetapi.vflset/www-widgetapi.js (1120)
+[0122/131636.386:WARNING:browser_info.cc(300)] Returning a speculative frame for 51539607557 [12,5]
+[0122/131636.386:WARNING:browser_info.cc(300)] Returning a speculative frame for 51539607557 [12,5]
+[0122/131636.386:WARNING:browser_info.cc(300)] Returning a speculative frame for 51539607557 [12,5]
+[0122/131636.386:WARNING:browser_info.cc(300)] Returning a speculative frame for 51539607557 [12,5]
+[0122/131638.215:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/131641.012:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/131641.637:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/131642.871:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/131645.088:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/131645.505:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/131645.992:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/131646.672:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/131743.805:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/131744.397:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/131804.509:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/131804.789:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/131804.903:INFO:CONSOLE(97)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (97)
+[0122/131845.262:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/132004.277:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/132536.135:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/132545.872:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836488 [5,8]
+[0122/132546.083:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/132546.339:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836488 [5,8]
+[0122/132546.339:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836488 [5,8]
+[0122/132546.340:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836488 [5,8]
+[0122/132546.340:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836488 [5,8]
+[0122/132546.458:WARNING:obfuscated_file_util.cc(1397)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0122/132546.854:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836495 [5,15]
+[0122/132547.038:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836495 [5,15]
+[0122/132547.039:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836495 [5,15]
+[0122/132547.039:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836495 [5,15]
+[0122/132547.039:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836495 [5,15]
+[0122/132547.068:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/132549.751:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836503 [5,23]
+[0122/132549.928:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836503 [5,23]
+[0122/132549.928:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836503 [5,23]
+[0122/132549.928:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836503 [5,23]
+[0122/132549.928:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836503 [5,23]
+[0122/132550.157:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/132553.517:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=6y7xnn4JgSU (0)
+[0122/132554.693:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672968 [10,8]
+[0122/132554.957:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672968 [10,8]
+[0122/132554.957:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672968 [10,8]
+[0122/132554.957:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672968 [10,8]
+[0122/132554.957:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672968 [10,8]
+[0122/132555.101:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/132559.878:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/132617.287:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=6y7xnn4JgSU (0)
+[0122/132633.653:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=6y7xnn4JgSU (0)
+[0122/132637.455:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=6y7xnn4JgSU (0)
+[0122/132659.271:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=6y7xnn4JgSU (0)
+[0122/132707.452:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=6y7xnn4JgSU (0)
+[0122/132733.271:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=6y7xnn4JgSU (0)
+[0122/132737.448:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=6y7xnn4JgSU (0)
+[0122/132754.930:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=6y7xnn4JgSU (0)
+[0122/132758.365:ERROR:mojo_audio_output_ipc.cc(185)] MojoAudioOutputIPC failed to acquire factory
+[0122/132815.571:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/132816.613:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/132820.958:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/132825.244:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/132828.510:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/132835.689:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/132928.134:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/132928.684:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/133127.903:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/133506.389:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/133508.124:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/133510.667:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/133533.610:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/133534.059:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/133733.375:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/133953.640:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/133954.245:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/134153.412:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/135040.907:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/135041.526:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/135046.720:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/135242.865:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/135245.222:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/135245.433:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/135249.879:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/135256.116:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/135257.415:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/135415.095:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/135415.598:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/135419.668:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/135453.474:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/135454.023:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/135459.092:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/135558.572:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/135559.268:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/135704.905:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/135707.261:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/135707.569:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/135904.707:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/140420.689:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/140421.181:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/140423.792:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/140620.467:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/141032.117:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/141032.708:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/141114.594:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/141115.086:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/141118.808:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/141205.190:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/141314.372:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/141328.892:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/141329.901:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/141332.853:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/141338.260:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/141409.187:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/141410.119:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/141412.532:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/141507.769:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/141608.982:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/141612.630:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/141614.365:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/141614.643:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/141621.688:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/142055.380:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/142056.262:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/142100.115:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/142132.319:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/142133.730:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/142143.144:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/142144.362:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/142144.704:WARNING:spdy_session.cc(3487)] Received HEADERS for invalid stream 5
+[0122/142144.704:WARNING:spdy_session.cc(3487)] Received HEADERS for invalid stream 9
+[0122/142144.704:WARNING:spdy_session.cc(3487)] Received HEADERS for invalid stream 7
+[0122/142333.855:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/142335.858:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/142533.613:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/142815.771:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/142817.211:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/142829.770:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/142830.434:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/142851.754:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/142853.228:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/142921.309:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/142923.518:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/143044.356:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/143047.724:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/143104.607:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/143106.126:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/143119.126:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/143119.956:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/143125.651:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/143215.819:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/143217.124:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/143219.300:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/143234.237:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/143235.199:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/143302.022:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/143304.043:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/143314.720:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/143351.148:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/143356.213:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/143356.397:INFO:CONSOLE(123)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (123)
+[0122/143408.993:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/143410.467:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/143608.799:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/143655.305:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/143828.184:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/143830.121:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/143836.459:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/143837.728:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144016.840:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144036.251:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/144057.198:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144116.099:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144117.088:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144118.110:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144121.044:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144121.850:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144122.349:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144122.994:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144123.632:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144124.282:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144125.081:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144126.274:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144126.652:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144128.055:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144128.614:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144132.057:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144133.363:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144135.930:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144136.282:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144136.618:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144137.273:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144137.684:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144138.261:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144139.416:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144140.153:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144140.430:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144140.833:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144143.906:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144149.210:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144150.248:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144150.715:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144208.721:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/144210.720:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144216.262:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/144218.832:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144232.351:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/144233.703:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144236.633:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144432.128:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/144710.706:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/144912.738:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/144916.356:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/144942.662:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/145154.025:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/145155.779:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/145158.631:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/145241.394:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/145246.166:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/145421.895:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/145424.513:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/145621.655:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/150616.640:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/150619.125:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/150619.273:INFO:CONSOLE(97)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (97)
+[0122/150816.399:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/151101.470:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/151102.240:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/151301.215:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/152218.028:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/152218.553:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/152222.037:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/152432.440:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/152433.788:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/152436.586:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/152440.206:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/152526.287:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/152529.004:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/152615.608:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/152617.910:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/152809.642:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/152810.183:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/152828.390:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/152832.270:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/152836.848:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/152838.477:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/152850.034:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/152853.355:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/152944.646:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/152946.665:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/153018.951:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/153021.530:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/153054.802:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/153100.088:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/153101.609:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/153130.614:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/153131.599:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/153330.378:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/153641.523:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/153644.636:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/153657.138:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/153659.550:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/153725.849:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/153731.399:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/153925.623:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/153941.120:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/153946.726:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/154009.210:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/154011.997:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/154137.366:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/154138.451:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/154144.404:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/154337.129:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/154913.669:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/154919.432:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/154938.521:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/154939.865:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/154948.689:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/154955.632:WARNING:spdy_session.cc(3487)] Received HEADERS for invalid stream 1
+[0122/154959.782:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/155002.297:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/155002.321:ERROR:interface_endpoint_client.cc(694)] Message 1 rejected by interface blink.mojom.WidgetHost
+[0122/155003.158:WARNING:spdy_session.cc(3487)] Received HEADERS for invalid stream 3
+[0122/155004.967:WARNING:spdy_session.cc(3487)] Received HEADERS for invalid stream 7
+[0122/155005.744:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/155005.874:WARNING:spdy_session.cc(3487)] Received HEADERS for invalid stream 1
+[0122/155026.420:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0122/155148.457:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/155204.768:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/155207.261:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/155227.018:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/155229.045:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705669 [9,5]
+[0122/155231.672:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/155232.133:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705669 [9,5]
+[0122/155232.133:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705669 [9,5]
+[0122/155232.133:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705669 [9,5]
+[0122/155232.133:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705669 [9,5]
+[0122/155232.476:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705676 [9,12]
+[0122/155232.814:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/155232.820:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705676 [9,12]
+[0122/155232.821:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705676 [9,12]
+[0122/155232.821:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705676 [9,12]
+[0122/155232.821:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705676 [9,12]
+[0122/155233.723:WARNING:obfuscated_file_util.cc(1397)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0122/155234.866:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/155243.390:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705685 [9,21]
+[0122/155243.402:WARNING:spdy_session.cc(3487)] Received HEADERS for invalid stream 1
+[0122/155243.462:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/155243.798:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705685 [9,21]
+[0122/155243.798:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705685 [9,21]
+[0122/155243.798:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705685 [9,21]
+[0122/155243.798:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705685 [9,21]
+[0122/155253.169:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640263 [11,7]
+[0122/155253.491:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640263 [11,7]
+[0122/155253.491:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640263 [11,7]
+[0122/155253.491:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640263 [11,7]
+[0122/155253.491:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640263 [11,7]
+[0122/155303.585:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/155305.188:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/155505.771:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/155506.969:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/155507.152:INFO:CONSOLE(123)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (123)
+[0122/155510.778:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/155510.800:ERROR:interface_endpoint_client.cc(694)] Message 1 rejected by interface blink.mojom.WidgetHost
+[0122/155512.953:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738373 [8,5]
+[0122/155514.556:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738373 [8,5]
+[0122/155514.556:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738373 [8,5]
+[0122/155514.556:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738373 [8,5]
+[0122/155514.557:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738373 [8,5]
+[0122/155514.743:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/155515.146:WARNING:obfuscated_file_util.cc(1397)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0122/155515.523:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705672 [9,8]
+[0122/155515.670:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/155515.703:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705672 [9,8]
+[0122/155515.703:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705672 [9,8]
+[0122/155515.703:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705672 [9,8]
+[0122/155515.703:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705672 [9,8]
+[0122/155515.886:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/155518.167:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705679 [9,15]
+[0122/155518.240:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/155518.342:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705679 [9,15]
+[0122/155518.342:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705679 [9,15]
+[0122/155518.342:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705679 [9,15]
+[0122/155518.343:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705679 [9,15]
+[0122/155523.259:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672967 [10,7]
+[0122/155523.370:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672967 [10,7]
+[0122/155523.370:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672967 [10,7]
+[0122/155523.370:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672967 [10,7]
+[0122/155523.370:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672967 [10,7]
+[0122/155530.154:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672973 [10,13]
+[0122/155530.154:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672973 [10,13]
+[0122/155530.154:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672973 [10,13]
+[0122/155530.154:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672973 [10,13]
+[0122/155530.763:ERROR:mojo_audio_output_ipc.cc(185)] MojoAudioOutputIPC failed to acquire factory
+[0122/160644.356:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/160645.874:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/160651.799:WARNING:browser_info.cc(300)] Returning a speculative frame for 30064771077 [7,5]
+[0122/160653.898:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/160654.253:WARNING:obfuscated_file_util.cc(1397)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0122/160654.615:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738373 [8,5]
+[0122/160654.798:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738373 [8,5]
+[0122/160654.798:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738373 [8,5]
+[0122/160654.798:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738373 [8,5]
+[0122/160654.798:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738373 [8,5]
+[0122/160654.934:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/160657.316:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738380 [8,12]
+[0122/160657.495:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738380 [8,12]
+[0122/160657.495:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738380 [8,12]
+[0122/160657.495:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738380 [8,12]
+[0122/160657.495:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738380 [8,12]
+[0122/160657.680:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/160701.052:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=6y7xnn4JgSU (0)
+[0122/160702.731:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705671 [9,7]
+[0122/160702.785:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705671 [9,7]
+[0122/160702.785:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705671 [9,7]
+[0122/160702.785:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705671 [9,7]
+[0122/160702.785:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705671 [9,7]
+[0122/160704.713:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/160857.186:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/160858.987:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/161056.949:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/161211.174:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/161212.380:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/161216.962:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/161223.258:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672965 [10,5]
+[0122/161223.469:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/161223.830:WARNING:obfuscated_file_util.cc(1397)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0122/161224.176:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640261 [11,5]
+[0122/161224.417:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/161224.577:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640261 [11,5]
+[0122/161224.577:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640261 [11,5]
+[0122/161224.577:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640261 [11,5]
+[0122/161224.577:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640261 [11,5]
+[0122/161226.760:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640268 [11,12]
+[0122/161226.939:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640268 [11,12]
+[0122/161226.940:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640268 [11,12]
+[0122/161226.940:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640268 [11,12]
+[0122/161226.940:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640268 [11,12]
+[0122/161227.124:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/161230.599:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=6y7xnn4JgSU (0)
+[0122/161233.816:WARNING:browser_info.cc(300)] Returning a speculative frame for 51539607559 [12,7]
+[0122/161233.890:WARNING:browser_info.cc(300)] Returning a speculative frame for 51539607559 [12,7]
+[0122/161233.890:WARNING:browser_info.cc(300)] Returning a speculative frame for 51539607559 [12,7]
+[0122/161233.890:WARNING:browser_info.cc(300)] Returning a speculative frame for 51539607559 [12,7]
+[0122/161233.891:WARNING:browser_info.cc(300)] Returning a speculative frame for 51539607559 [12,7]
+[0122/161237.939:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/161249.051:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=6y7xnn4JgSU (0)
+[0122/161253.738:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=6y7xnn4JgSU (0)
+[0122/161257.914:ERROR:mojo_audio_output_ipc.cc(185)] MojoAudioOutputIPC failed to acquire factory
+[0122/161347.137:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/161348.956:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/161355.861:WARNING:browser_info.cc(300)] Returning a speculative frame for 30064771077 [7,5]
+[0122/161357.240:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/161357.679:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738373 [8,5]
+[0122/161358.047:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/161358.376:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738373 [8,5]
+[0122/161358.376:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738373 [8,5]
+[0122/161358.376:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738373 [8,5]
+[0122/161358.376:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738373 [8,5]
+[0122/161358.396:WARNING:obfuscated_file_util.cc(1397)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0122/161400.320:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738380 [8,12]
+[0122/161400.394:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/161400.511:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738380 [8,12]
+[0122/161400.511:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738380 [8,12]
+[0122/161400.511:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738380 [8,12]
+[0122/161400.511:WARNING:browser_info.cc(300)] Returning a speculative frame for 34359738380 [8,12]
+[0122/161405.567:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705671 [9,7]
+[0122/161405.621:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705671 [9,7]
+[0122/161405.621:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705671 [9,7]
+[0122/161405.621:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705671 [9,7]
+[0122/161405.621:WARNING:browser_info.cc(300)] Returning a speculative frame for 38654705671 [9,7]
+[0122/161420.444:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=6y7xnn4JgSU (0)
+[0122/161426.759:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=6y7xnn4JgSU (0)
+[0122/161428.342:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'https://googleads.g.doubleclick.net/pagead/viewthroughconversion/962985656/?backend=innertube&cname=1&cver=2_20230120&data=backend%3Dinnertube%3Bcname%3D1%3Bcver%3D2_20230120%3Bptype%3Df_view%3Btype%3Dview%3Butuid%3DizZsr6YKuhSK9sct4U9KXQ%3Butvid%3D6y7xnn4JgSU&foc_id=izZsr6YKuhSK9sct4U9KXQ&label=followon_view&ptype=f_view&random=1054079628&utuid=izZsr6YKuhSK9sct4U9KXQ&cv_attributed=0' (redirected from 'https://www.youtube.com/pagead/viewthroughconversion/962985656/?backend=innertube&cname=1&cver=2_20230120&data=backend%3Dinnertube%3Bcname%3D1%3Bcver%3D2_20230120%3Bptype%3Df_view%3Btype%3Dview%3Butuid%3DizZsr6YKuhSK9sct4U9KXQ%3Butvid%3D6y7xnn4JgSU&foc_id=izZsr6YKuhSK9sct4U9KXQ&label=followon_view&ptype=f_view&random=1054079628&utuid=izZsr6YKuhSK9sct4U9KXQ') from origin 'https://www.youtube.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.", source: https://www.youtube.com/watch?v=6y7xnn4JgSU (0)
+[0122/161603.301:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/161608.222:WARNING:spdy_session.cc(3487)] Received HEADERS for invalid stream 1
+[0122/161614.932:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836485 [5,5]
+[0122/161617.618:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836485 [5,5]
+[0122/161617.618:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836485 [5,5]
+[0122/161617.618:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836485 [5,5]
+[0122/161617.618:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836485 [5,5]
+[0122/161626.370:WARNING:browser_info.cc(300)] Returning a speculative frame for 25769803781 [6,5]
+[0122/161626.763:WARNING:browser_info.cc(300)] Returning a speculative frame for 25769803781 [6,5]
+[0122/161626.763:WARNING:browser_info.cc(300)] Returning a speculative frame for 25769803781 [6,5]
+[0122/161626.763:WARNING:browser_info.cc(300)] Returning a speculative frame for 25769803781 [6,5]
+[0122/161626.763:WARNING:browser_info.cc(300)] Returning a speculative frame for 25769803781 [6,5]
+[0122/161642.434:WARNING:browser_info.cc(300)] Returning a speculative frame for 25769803787 [6,11]
+[0122/161643.350:WARNING:spdy_session.cc(3487)] Received HEADERS for invalid stream 3
+[0122/161646.752:WARNING:browser_info.cc(300)] Returning a speculative frame for 25769803787 [6,11]
+[0122/161646.752:WARNING:browser_info.cc(300)] Returning a speculative frame for 25769803787 [6,11]
+[0122/161646.752:WARNING:browser_info.cc(300)] Returning a speculative frame for 25769803787 [6,11]
+[0122/161646.752:WARNING:browser_info.cc(300)] Returning a speculative frame for 25769803787 [6,11]
+[0122/161646.962:WARNING:spdy_session.cc(3487)] Received HEADERS for invalid stream 9
+[0122/161647.813:WARNING:spdy_session.cc(3487)] Received HEADERS for invalid stream 29
+[0122/161648.816:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/161655.254:WARNING:spdy_session.cc(3487)] Received HEADERS for invalid stream 1
+[0122/161656.268:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640261 [11,5]
+[0122/161656.645:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640261 [11,5]
+[0122/161656.645:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640261 [11,5]
+[0122/161656.645:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640261 [11,5]
+[0122/161656.645:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640261 [11,5]
+[0122/161733.757:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/161734.075:WARNING:obfuscated_file_util.cc(1397)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0122/161734.540:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640268 [11,12]
+[0122/161734.988:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/161735.007:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640268 [11,12]
+[0122/161735.007:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640268 [11,12]
+[0122/161735.007:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640268 [11,12]
+[0122/161735.007:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640268 [11,12]
+[0122/161744.414:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0122/161752.069:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0122/161803.074:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/161812.076:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0122/161818.525:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0122/161844.139:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0122/161901.386:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640277 [11,21]
+[0122/161901.722:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/161903.723:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640277 [11,21]
+[0122/161903.723:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640277 [11,21]
+[0122/161903.723:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640277 [11,21]
+[0122/161903.723:WARNING:browser_info.cc(300)] Returning a speculative frame for 47244640277 [11,21]
+[0122/161909.285:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=6y7xnn4JgSU (0)
+[0122/161914.658:WARNING:browser_info.cc(300)] Returning a speculative frame for 51539607559 [12,7]
+[0122/161915.262:WARNING:browser_info.cc(300)] Returning a speculative frame for 51539607559 [12,7]
+[0122/161915.262:WARNING:browser_info.cc(300)] Returning a speculative frame for 51539607559 [12,7]
+[0122/161915.262:WARNING:browser_info.cc(300)] Returning a speculative frame for 51539607559 [12,7]
+[0122/161915.262:WARNING:browser_info.cc(300)] Returning a speculative frame for 51539607559 [12,7]
+[0122/162244.886:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/162249.297:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/162259.926:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/162301.056:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/162301.125:INFO:CONSOLE(129)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (129)
+[0122/162311.538:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/162313.495:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/162318.299:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/162511.314:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/162714.166:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/162714.690:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/162714.843:INFO:CONSOLE(0)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (0)
+[0122/162719.553:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/162913.933:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/163924.033:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/163924.662:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/163930.571:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/163948.334:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/163948.787:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/164022.886:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/164023.344:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/164110.617:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/164111.056:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/164111.407:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/164252.208:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/164252.760:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/164332.139:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/164332.583:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/164332.696:INFO:CONSOLE(123)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (123)
+[0122/164336.251:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/164529.799:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/164751.389:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/164752.296:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/164752.434:INFO:CONSOLE(123)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (123)
+[0122/164845.934:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/164846.391:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/164846.510:INFO:CONSOLE(0)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (0)
+[0122/164848.880:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/164851.163:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/164851.259:INFO:CONSOLE(129)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (129)
+[0122/164852.896:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/164852.991:INFO:CONSOLE(96)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (96)
+[0122/164927.205:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/164927.931:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/165016.385:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/165017.000:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/165018.739:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/165018.846:INFO:CONSOLE(96)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (96)
+[0122/165109.002:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/165109.451:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/165121.080:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/165121.528:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/165121.622:INFO:CONSOLE(97)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (97)
+[0122/165205.007:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/165205.471:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/165319.333:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/165319.778:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/165319.888:INFO:CONSOLE(97)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (97)
+[0122/165444.653:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/165445.115:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/165501.107:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/165501.552:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/165700.853:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/170016.529:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/170017.010:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/170020.709:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/170216.293:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/172238.111:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/172238.587:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/172238.668:INFO:CONSOLE(123)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (123)
+[0122/172437.880:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/172535.427:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/172535.893:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/172641.820:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/172642.265:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/172710.196:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/172710.958:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/172727.962:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/172728.411:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/172755.929:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/172756.422:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/172805.864:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/172806.339:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/172806.431:INFO:CONSOLE(97)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (97)
+[0122/172813.961:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/172814.741:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/172814.839:INFO:CONSOLE(76)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (76)
+[0122/172828.613:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/172829.058:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/172829.153:INFO:CONSOLE(123)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (123)
+[0122/173028.391:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/173518.492:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/173518.931:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/173920.746:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/173921.474:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/173921.590:INFO:CONSOLE(0)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (0)
+[0122/173924.898:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/173924.919:ERROR:interface_endpoint_client.cc(694)] Message 1 rejected by interface blink.mojom.WidgetHost
+[0122/174020.754:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/174120.535:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/174841.112:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/175023.290:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/175023.733:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/175026.789:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/175026.809:ERROR:interface_endpoint_client.cc(694)] Message 1 rejected by interface blink.mojom.WidgetHost
+[0122/175030.784:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/175032.603:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672965 [10,5]
+[0122/175033.431:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672965 [10,5]
+[0122/175033.431:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672965 [10,5]
+[0122/175033.431:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672965 [10,5]
+[0122/175033.431:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672965 [10,5]
+[0122/175033.775:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/175034.209:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672972 [10,12]
+[0122/175034.366:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672972 [10,12]
+[0122/175034.367:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672972 [10,12]
+[0122/175034.367:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672972 [10,12]
+[0122/175034.367:WARNING:browser_info.cc(300)] Returning a speculative frame for 42949672972 [10,12]
+[0122/175034.560:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/175035.043:WARNING:obfuscated_file_util.cc(1397)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0122/175040.771:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0122/175043.892:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0122/175050.246:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0122/175055.866:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/175056.509:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836485 [5,5]
+[0122/175057.021:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836485 [5,5]
+[0122/175057.021:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836485 [5,5]
+[0122/175057.021:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836485 [5,5]
+[0122/175057.021:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836485 [5,5]
+[0122/175057.795:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/175058.258:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836492 [5,12]
+[0122/175058.418:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836492 [5,12]
+[0122/175058.418:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836492 [5,12]
+[0122/175058.418:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836492 [5,12]
+[0122/175058.418:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836492 [5,12]
+[0122/175058.603:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/175058.977:WARNING:obfuscated_file_util.cc(1397)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0122/175101.115:WARNING:spdy_session.cc(3487)] Received HEADERS for invalid stream 1
+[0122/175101.151:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836499 [5,19]
+[0122/175101.223:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/175101.331:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836499 [5,19]
+[0122/175101.331:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836499 [5,19]
+[0122/175101.331:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836499 [5,19]
+[0122/175101.331:WARNING:browser_info.cc(300)] Returning a speculative frame for 21474836499 [5,19]
+[0122/175102.884:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/175111.405:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0122/175117.893:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/175202.498:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/175202.769:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/175205.103:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/175205.506:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/175257.260:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/175324.235:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/175324.734:INFO:CONSOLE(6)] "Uncaught TypeError: Cannot read properties of undefined (reading 'fn')", source: https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js (6)
+[0122/175324.747:INFO:CONSOLE(20)] "Uncaught TypeError: Cannot set properties of undefined (setting 'onclick')", source: https://web009.wifiooe.at/jchess/js/custom.js (20)
+[0122/175324.767:INFO:CONSOLE(70)] "Mixed Content: The page at 'https://web009.wifiooe.at/jchess/' was loaded over HTTPS, but requested an insecure element 'http://images.chesscomfiles.com/chess-themes/sounds/_MP3_/default/move-self.mp3'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html", source: https://web009.wifiooe.at/jchess/ (70)
+[0122/175324.770:INFO:CONSOLE(70)] "Mixed Content: The page at 'https://web009.wifiooe.at/jchess/' was loaded over HTTPS, but requested an insecure element 'http://images.chesscomfiles.com/chess-themes/sounds/_MP3_/default/move-self.mp3'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html", source: https://web009.wifiooe.at/jchess/ (70)
+[0122/175324.906:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://web009.wifiooe.at/jchess/' was loaded over HTTPS, but requested an insecure audio file 'http://images.chesscomfiles.com/chess-themes/sounds/_MP3_/default/move-self.mp3'. This content should also be served over HTTPS.", source: https://web009.wifiooe.at/jchess/ (0)
+[0122/175324.940:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://web009.wifiooe.at/jchess/' was loaded over HTTPS, but requested an insecure audio file 'http://images.chesscomfiles.com/chess-themes/sounds/_MP3_/default/move-self.mp3'. This content should also be served over HTTPS.", source: https://web009.wifiooe.at/jchess/ (0)
+[0122/175343.278:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[0122/175344.012:INFO:CONSOLE(108)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (108)
+[0122/175344.024:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/175344.024:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/175543.061:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/175648.395:INFO:CONSOLE(108)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (108)
+[0122/175750.879:INFO:CONSOLE(108)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (108)
+[0122/175750.888:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/175750.890:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/175756.196:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0122/175756.205:INFO:CONSOLE(1)] "The Cross-Origin-Opener-Policy header has been ignored, because the URL's origin was untrustworthy. It was defined either in the final response or a redirect. Please deliver the response using the HTTPS protocol. You can also use the 'localhost' origin instead. See https://www.w3.org/TR/powerful-features/#potentially-trustworthy-origin and https://html.spec.whatwg.org/#the-cross-origin-opener-policy-header.", source: https://www.google.com/?gws_rd=ssl (1)
+[0122/175756.205:INFO:CONSOLE(1)] "The Cross-Origin-Opener-Policy header has been ignored, because the URL's origin was untrustworthy. It was defined either in the final response or a redirect. Please deliver the response using the HTTPS protocol. You can also use the 'localhost' origin instead. See https://www.w3.org/TR/powerful-features/#potentially-trustworthy-origin and https://html.spec.whatwg.org/#the-cross-origin-opener-policy-header.", source: https://www.google.com/?gws_rd=ssl (1)
+[0122/184407.689:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/184407.707:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184407.710:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184417.901:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/184417.915:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184417.918:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184457.239:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/184457.252:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184457.256:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184500.572:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[0122/184500.583:INFO:CONSOLE(0)] "The Cross-Origin-Opener-Policy header has been ignored, because the URL's origin was untrustworthy. It was defined either in the final response or a redirect. Please deliver the response using the HTTPS protocol. You can also use the 'localhost' origin instead. See https://www.w3.org/TR/powerful-features/#potentially-trustworthy-origin and https://html.spec.whatwg.org/#the-cross-origin-opener-policy-header.", source: https://www.google.com/?gws_rd=ssl (0)
+[0122/184500.583:INFO:CONSOLE(0)] "The Cross-Origin-Opener-Policy header has been ignored, because the URL's origin was untrustworthy. It was defined either in the final response or a redirect. Please deliver the response using the HTTPS protocol. You can also use the 'localhost' origin instead. See https://www.w3.org/TR/powerful-features/#potentially-trustworthy-origin and https://html.spec.whatwg.org/#the-cross-origin-opener-policy-header.", source: https://www.google.com/?gws_rd=ssl (0)
+[0122/184500.666:INFO:CONSOLE(0)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/?gws_rd=ssl (0)
+[0122/184516.567:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0122/184516.567:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0122/184516.765:WARNING:spdy_session.cc(3499)] Received HEADERS for invalid stream 1
+[0122/184517.761:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0122/184517.761:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0122/184517.978:INFO:CONSOLE(245)] "%c%s color: red; background: yellow; font-size: 24px; Achtung!", source: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.de.HJtcY_8-ZQA.es5.O/am=GIwAg4A4ByZDAAAAAAAAAACABQ4g/d=1/excm=_b,_r,_tp,identifierview/ed=1/dg=0/wt=2/rs=AOaEmlHv_ipGbEKjpr9y82W4vZTcY7GdBg/m=_b,_tp,_r (245)
+[0122/184517.978:INFO:CONSOLE(245)] "%c%s font-size: 18px; Wenn Sie diese Konsole verwenden, können Angreifer möglicherweise mithilfe einer sogenannten Self-XSS-Attacke Ihre Identität stehlen und Ihre Daten ausspionieren.
+Sie sollten keinen Code eingeben oder einfügen, den Sie nicht verstehen.", source: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.de.HJtcY_8-ZQA.es5.O/am=GIwAg4A4ByZDAAAAAAAAAACABQ4g/d=1/excm=_b,_r,_tp,identifierview/ed=1/dg=0/wt=2/rs=AOaEmlHv_ipGbEKjpr9y82W4vZTcY7GdBg/m=_b,_tp,_r (245)
+[0122/184518.350:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0122/184518.481:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0122/184518.481:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0122/184518.481:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0122/184518.481:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0122/184518.483:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0122/184518.483:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0122/184518.484:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0122/184518.484:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0122/184527.479:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0122/184527.479:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0122/184527.613:INFO:CONSOLE(245)] "%c%s color: red; background: yellow; font-size: 24px; Achtung!", source: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.de.HJtcY_8-ZQA.es5.O/am=GIwAg4A4ByZDAAAAAAAAAACABQ4g/d=1/excm=_b,_r,_tp,identifierview/ed=1/dg=0/wt=2/rs=AOaEmlHv_ipGbEKjpr9y82W4vZTcY7GdBg/m=_b,_tp,_r (245)
+[0122/184527.613:INFO:CONSOLE(245)] "%c%s font-size: 18px; Wenn Sie diese Konsole verwenden, können Angreifer möglicherweise mithilfe einer sogenannten Self-XSS-Attacke Ihre Identität stehlen und Ihre Daten ausspionieren.
+Sie sollten keinen Code eingeben oder einfügen, den Sie nicht verstehen.", source: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.de.HJtcY_8-ZQA.es5.O/am=GIwAg4A4ByZDAAAAAAAAAACABQ4g/d=1/excm=_b,_r,_tp,identifierview/ed=1/dg=0/wt=2/rs=AOaEmlHv_ipGbEKjpr9y82W4vZTcY7GdBg/m=_b,_tp,_r (245)
+[0122/184527.741:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[0122/184527.882:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0122/184527.882:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0122/184527.941:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[0122/184527.942:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[0122/184527.942:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[0122/184527.942:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[0122/184527.944:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0122/184527.944:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0122/184529.880:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/184529.892:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184529.903:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184604.152:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/184604.160:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184604.175:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184617.477:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0122/184617.477:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0122/184617.601:INFO:CONSOLE(245)] "%c%s color: red; background: yellow; font-size: 24px; Achtung!", source: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.de.HJtcY_8-ZQA.es5.O/am=GIwAg4A4ByZDAAAAAAAAAACABQ4g/d=1/excm=_b,_r,_tp,identifierview/ed=1/dg=0/wt=2/rs=AOaEmlHv_ipGbEKjpr9y82W4vZTcY7GdBg/m=_b,_tp,_r (245)
+[0122/184617.601:INFO:CONSOLE(245)] "%c%s font-size: 18px; Wenn Sie diese Konsole verwenden, können Angreifer möglicherweise mithilfe einer sogenannten Self-XSS-Attacke Ihre Identität stehlen und Ihre Daten ausspionieren.
+Sie sollten keinen Code eingeben oder einfügen, den Sie nicht verstehen.", source: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.de.HJtcY_8-ZQA.es5.O/am=GIwAg4A4ByZDAAAAAAAAAACABQ4g/d=1/excm=_b,_r,_tp,identifierview/ed=1/dg=0/wt=2/rs=AOaEmlHv_ipGbEKjpr9y82W4vZTcY7GdBg/m=_b,_tp,_r (245)
+[0122/184617.716:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542149 [14,5]
+[0122/184617.840:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542149 [14,5]
+[0122/184617.840:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542149 [14,5]
+[0122/184617.840:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542149 [14,5]
+[0122/184617.840:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542149 [14,5]
+[0122/184617.842:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0122/184617.842:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0122/184617.864:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0122/184617.864:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0122/184619.919:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/184619.932:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184619.951:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184656.322:ERROR:gpu_init.cc(453)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/184722.730:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/184722.744:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184722.747:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184727.335:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/184727.349:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184727.360:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184743.644:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[0122/184743.657:INFO:CONSOLE(0)] "The Cross-Origin-Opener-Policy header has been ignored, because the URL's origin was untrustworthy. It was defined either in the final response or a redirect. Please deliver the response using the HTTPS protocol. You can also use the 'localhost' origin instead. See https://www.w3.org/TR/powerful-features/#potentially-trustworthy-origin and https://html.spec.whatwg.org/#the-cross-origin-opener-policy-header.", source: https://www.google.com/search?q=sdf&gws_rd=ssl (0)
+[0122/184746.557:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0122/184746.557:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0122/184754.518:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/184754.532:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184754.535:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184831.411:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/184831.425:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184831.429:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184852.048:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/184852.062:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184852.065:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184859.559:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/184859.573:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184859.588:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184913.441:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/184913.453:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184913.457:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184930.667:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/184930.683:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/184930.687:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/185027.817:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/185027.830:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/185027.833:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/185035.860:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/185035.874:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/185035.878:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/185059.922:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/185059.934:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/185059.938:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/185153.498:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/185153.511:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/185153.515:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/185216.631:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/185216.645:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/185216.649:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/185233.134:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/185233.148:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/185233.151:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/185248.636:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/185248.649:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/185248.653:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/185359.981:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/185359.994:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/185359.998:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/185406.970:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[0122/185406.984:INFO:CONSOLE(0)] "The Cross-Origin-Opener-Policy header has been ignored, because the URL's origin was untrustworthy. It was defined either in the final response or a redirect. Please deliver the response using the HTTPS protocol. You can also use the 'localhost' origin instead. See https://www.w3.org/TR/powerful-features/#potentially-trustworthy-origin and https://html.spec.whatwg.org/#the-cross-origin-opener-policy-header.", source: https://www.google.com/search?q=google&gws_rd=ssl (0)
+[0122/185409.447:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0122/185409.447:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0122/185602.667:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/185602.683:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/185602.686:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/185729.723:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/185729.737:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/185729.740:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/185802.279:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[0122/185802.293:INFO:CONSOLE(0)] "The Cross-Origin-Opener-Policy header has been ignored, because the URL's origin was untrustworthy. It was defined either in the final response or a redirect. Please deliver the response using the HTTPS protocol. You can also use the 'localhost' origin instead. See https://www.w3.org/TR/powerful-features/#potentially-trustworthy-origin and https://html.spec.whatwg.org/#the-cross-origin-opener-policy-header.", source: https://www.google.com/?gws_rd=ssl (0)
+[0122/185802.293:INFO:CONSOLE(0)] "The Cross-Origin-Opener-Policy header has been ignored, because the URL's origin was untrustworthy. It was defined either in the final response or a redirect. Please deliver the response using the HTTPS protocol. You can also use the 'localhost' origin instead. See https://www.w3.org/TR/powerful-features/#potentially-trustworthy-origin and https://html.spec.whatwg.org/#the-cross-origin-opener-policy-header.", source: https://www.google.com/?gws_rd=ssl (0)
+[0122/185802.384:INFO:CONSOLE(0)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/?gws_rd=ssl (0)
+[0122/185929.455:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[0122/185929.461:INFO:CONSOLE(0)] "The Cross-Origin-Opener-Policy header has been ignored, because the URL's origin was untrustworthy. It was defined either in the final response or a redirect. Please deliver the response using the HTTPS protocol. You can also use the 'localhost' origin instead. See https://www.w3.org/TR/powerful-features/#potentially-trustworthy-origin and https://html.spec.whatwg.org/#the-cross-origin-opener-policy-header.", source: https://www.google.com/?gws_rd=ssl (0)
+[0122/185929.461:INFO:CONSOLE(0)] "The Cross-Origin-Opener-Policy header has been ignored, because the URL's origin was untrustworthy. It was defined either in the final response or a redirect. Please deliver the response using the HTTPS protocol. You can also use the 'localhost' origin instead. See https://www.w3.org/TR/powerful-features/#potentially-trustworthy-origin and https://html.spec.whatwg.org/#the-cross-origin-opener-policy-header.", source: https://www.google.com/?gws_rd=ssl (0)
+[0122/190010.676:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/190010.690:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/190010.692:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/190114.709:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/190114.723:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/190114.727:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/190313.872:ERROR:gpu_init.cc(453)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/190419.259:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/190419.273:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/190419.276:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/190600.003:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/190600.018:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/190600.022:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/190958.799:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[0122/190958.805:INFO:CONSOLE(0)] "The Cross-Origin-Opener-Policy header has been ignored, because the URL's origin was untrustworthy. It was defined either in the final response or a redirect. Please deliver the response using the HTTPS protocol. You can also use the 'localhost' origin instead. See https://www.w3.org/TR/powerful-features/#potentially-trustworthy-origin and https://html.spec.whatwg.org/#the-cross-origin-opener-policy-header.", source: https://www.google.at/?gws_rd=ssl (0)
+[0122/190958.806:INFO:CONSOLE(0)] "The Cross-Origin-Opener-Policy header has been ignored, because the URL's origin was untrustworthy. It was defined either in the final response or a redirect. Please deliver the response using the HTTPS protocol. You can also use the 'localhost' origin instead. See https://www.w3.org/TR/powerful-features/#potentially-trustworthy-origin and https://html.spec.whatwg.org/#the-cross-origin-opener-policy-header.", source: https://www.google.at/?gws_rd=ssl (0)
+[0122/190958.909:INFO:CONSOLE(0)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.at/?gws_rd=ssl (0)
+[0122/191003.582:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[0122/191005.258:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0122/191005.258:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0122/191018.038:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/191018.050:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/191018.054:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/191139.056:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[0122/191139.062:INFO:CONSOLE(0)] "The Cross-Origin-Opener-Policy header has been ignored, because the URL's origin was untrustworthy. It was defined either in the final response or a redirect. Please deliver the response using the HTTPS protocol. You can also use the 'localhost' origin instead. See https://www.w3.org/TR/powerful-features/#potentially-trustworthy-origin and https://html.spec.whatwg.org/#the-cross-origin-opener-policy-header.", source: https://www.google.at/?gws_rd=ssl (0)
+[0122/191139.062:INFO:CONSOLE(0)] "The Cross-Origin-Opener-Policy header has been ignored, because the URL's origin was untrustworthy. It was defined either in the final response or a redirect. Please deliver the response using the HTTPS protocol. You can also use the 'localhost' origin instead. See https://www.w3.org/TR/powerful-features/#potentially-trustworthy-origin and https://html.spec.whatwg.org/#the-cross-origin-opener-policy-header.", source: https://www.google.at/?gws_rd=ssl (0)
+[0122/192829.324:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/192829.337:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/192829.340:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/192848.753:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[0122/192848.850:INFO:CONSOLE(0)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (0)
+[0122/192856.303:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[0122/192857.852:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[0122/192858.543:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[0122/193048.102:ERROR:gpu_init.cc(453)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/193111.916:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[0122/193117.532:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[0122/193118.938:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0122/193118.938:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0122/193121.252:INFO:CONSOLE(117)] "-67.5", source: https://www.sdfgroup.com/templates/sdf/js/script.js?version=20211028-1151 (117)
+[0122/193121.254:INFO:CONSOLE(117)] "136", source: https://www.sdfgroup.com/templates/sdf/js/script.js?version=20211028-1151 (117)
+[0122/193311.189:ERROR:gpu_init.cc(453)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/193626.973:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[0122/193627.086:INFO:CONSOLE(0)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (0)
+[0122/193630.842:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[0122/193630.859:WARNING:spdy_session.cc(3499)] Received HEADERS for invalid stream 1
+[0122/193632.556:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0122/193632.557:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0122/193634.675:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[0122/193636.215:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0122/193636.215:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0122/193636.487:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0122/193636.572:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0122/193636.572:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0122/193636.572:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0122/193636.572:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0122/193636.574:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0122/193636.574:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0122/193640.371:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[0122/193642.036:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0122/193642.036:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0122/193642.404:WARNING:browser_info.cc(298)] Returning a speculative frame for 55834574853 [13,5]
+[0122/193643.118:WARNING:browser_info.cc(298)] Returning a speculative frame for 55834574853 [13,5]
+[0122/193643.118:WARNING:browser_info.cc(298)] Returning a speculative frame for 55834574853 [13,5]
+[0122/193643.118:WARNING:browser_info.cc(298)] Returning a speculative frame for 55834574853 [13,5]
+[0122/193643.118:WARNING:browser_info.cc(298)] Returning a speculative frame for 55834574853 [13,5]
+[0122/193643.119:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0122/193643.120:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0122/193643.587:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/193644.024:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0122/193644.024:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0122/193644.092:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542149 [14,5]
+[0122/193644.256:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542149 [14,5]
+[0122/193644.256:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542149 [14,5]
+[0122/193644.256:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542149 [14,5]
+[0122/193644.256:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542149 [14,5]
+[0122/193644.258:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0122/193644.258:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0122/193644.480:INFO:CONSOLE(4117)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/82a4cf4f/jsbin/desktop_polymer.vflset/desktop_polymer.js (4117)
+[0122/193648.971:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0122/193826.262:ERROR:gpu_init.cc(453)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0122/193903.878:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[0122/193906.502:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[0122/193908.132:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0122/193908.132:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0122/193909.597:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[0122/193911.073:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0122/193911.073:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0122/193911.462:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0122/193911.544:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0122/193911.544:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0122/193911.544:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0122/193911.544:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0122/193911.545:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0122/193911.545:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0122/193916.542:INFO:CONSOLE(133)] "Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')", source: https://web003.wifiooe.at/assets/backend.js (133)
+[0122/193916.555:INFO:CONSOLE(2)] "jQuery.Deferred exception: $(...).DataTable is not a function TypeError: $(...).DataTable is not a function
+    at HTMLDocument.<anonymous> (https://web003.wifiooe.at/assets/frontend.js:94:18)
+    at j (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:29999)
+    at k (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js:2:30313) undefined", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/193916.559:INFO:CONSOLE(2)] "Uncaught TypeError: $(...).DataTable is not a function", source: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js (2)
+[0122/194010.215:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[0122/194010.600:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0122/194010.600:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0122/194010.725:WARNING:browser_info.cc(298)] Returning a speculative frame for 51539607558 [12,6]
+[0122/194010.824:WARNING:browser_info.cc(298)] Returning a speculative frame for 51539607558 [12,6]
+[0122/194010.825:WARNING:browser_info.cc(298)] Returning a speculative frame for 51539607558 [12,6]
+[0122/194010.825:WARNING:browser_info.cc(298)] Returning a speculative frame for 51539607558 [12,6]
+[0122/194010.825:WARNING:browser_info.cc(298)] Returning a speculative frame for 51539607558 [12,6]
+[0122/194010.826:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0122/194010.826:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
