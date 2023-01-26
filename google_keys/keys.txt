@@ -1,0 +1,9 @@
+api_key:
+AIzaSyCiCfQAE72Jx2A71C-2MZVFOIWoPSCcOLA
+
+client_id:
+845884827035-q1un8kv24875ktcl0cf60s07had9r83a.apps.googleusercontent.com
+
+client_key:
+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
+

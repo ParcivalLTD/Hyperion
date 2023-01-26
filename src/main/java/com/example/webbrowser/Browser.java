@@ -43,6 +43,8 @@ public class Browser {
 
         browser_ = client_.createBrowser(startURL, useOSR, isTransparent);
         browerUI_ = browser_.getUIComponent();
+
+        client_.addJSDialogHandler(new JSDialogHandler(browser_));
     }
 
     public CefClient getClient_() {
