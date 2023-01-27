@@ -34,7 +34,7 @@ Then, navigate to the project directory and run the following command:
 ```mvn clean install```
 
 💻 Please note that the **JCEF library**, which is necessary for Hyperion to run, is quite large (over 200 MB). For this reason, I have uploaded the JCEF bundle folder to the following link: https://brgrohrbach-my.sharepoint.com/:f:/g/personal/julian_gabriel_brgrohrbach_ac_at/Er24cPZmv3ZHoAcN-H7mVvYBzbT7bgdeGBvPk04C1JY6Ew?e=QtJJ1Y.
-💻 Please note that the **JCEF library**, which is necessary for Hyperion to run, is quite large (over 200 MB). For this reason, I have uploaded the JCEF bundle folder to a seperate Website. [Link](https://brgrohrbach-my.sharepoint.com/:f:/g/personal/julian_gabriel_brgrohrbach_ac_at/EjBz9_OHVzFAnBWIZEzkplwBrfRKGGiiM_st_b3SbRC6tQ?e=po7Zgq).
+💻 Please note that the **JCEF library**, which is necessary for Hyperion to run, is quite large (over 200 MB). For this reason, I have uploaded the JCEF bundle folder to a seperate Website. [Link]([https://brgrohrbach-my.sharepoint.com/:f:/g/personal/julian_gabriel_brgrohrbach_ac_at/EjBz9_OHVzFAnBWIZEzkplwBrfRKGGiiM_st_b3SbRC6tQ?e=po7Zgq](https://brgrohrbach-my.sharepoint.com/:f:/g/personal/julian_gabriel_brgrohrbach_ac_at/EoyLsiPhZ0VJu-ezrjLaFOQBI876MefFz9rurw7XAVY38g?e=pRcIGs)).
 
 ### 2. Use the release
 
