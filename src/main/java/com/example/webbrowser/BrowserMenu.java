@@ -1,6 +1,8 @@
 package com.example.webbrowser;
 
+import com.formdev.flatlaf.ui.FlatBorder;
 import com.formdev.flatlaf.ui.FlatDropShadowBorder;
+import com.formdev.flatlaf.ui.FlatRoundBorder;
 import org.cef.CefClient;
 import org.cef.browser.CefBrowser;
 
@@ -9,6 +11,7 @@ import javax.swing.border.EmptyBorder;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.awt.geom.RoundRectangle2D;
 
 public class BrowserMenu extends JPopupMenu {
     private static final long serialVersionUID = 1L;
@@ -26,8 +29,8 @@ public class BrowserMenu extends JPopupMenu {
         bookmarks = new JMenuItem("Bookmarks");
 
         setPreferredSize(new Dimension(150, 75));
-        setBorder(new EmptyBorder(10, 10, 10, 10));
-        setBorder(new FlatDropShadowBorder());
+
+
 
         add(Box.createHorizontalGlue());
         add(settings);
