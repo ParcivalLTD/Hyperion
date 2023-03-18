@@ -1,5 +1,6 @@
 package com.example.webbrowser;
 
+import com.formdev.flatlaf.ui.FlatRoundBorder;
 import me.friwi.jcefmaven.CefInitializationException;
 import me.friwi.jcefmaven.UnsupportedPlatformException;
 import org.cef.CefApp;
@@ -11,10 +12,8 @@ import org.cef.handler.CefFocusHandlerAdapter;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import java.awt.event.FocusAdapter;
-import java.awt.event.FocusEvent;
+import java.awt.event.*;
+import java.awt.geom.RoundRectangle2D;
 import java.io.IOException;
 
 public class BrowserTab extends JFrame implements Tab {
@@ -149,7 +148,6 @@ public class BrowserTab extends JFrame implements Tab {
     private void menuPopup(String startPage) {
         menuButton = toolbar.getMenuButton();
         menu = new BrowserMenu(browser.getBrowser_(), browser.getClient_(), toolbar.getBookmarkButton(), searchEnginePre);
-
         menuButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
